@@ -1,0 +1,165 @@
+li{
+    font-size:25px;
+    font-family:Pangolin;
+}
+
+
+
+
+.Title{
+    text-align:center;
+    font-size:50px;
+    font-family:Pangolin;
+}
+.SubTitle{
+    text-align:center;
+    font-size:30px;
+    font-family:Pangolin;
+}
+.Li{
+    font-weight:bold;
+}
+.SecLi{
+    list-style-type:circle;
+    margin-left:100px;
+}
+.Pic{
+    border:#3399ff 2px solid;
+    border-radius:40%;
+    height:300px;
+    width:300px;
+    background-size:100% 100%;
+}
+.LPic{
+    border:#3399ff 2px solid;
+    border-radius:40%;
+    height:400px;
+    width:800px;
+    margin-left:auto;
+    margin-right:auto;
+    background-size:100% 100%;
+}
+.Blank{
+    height:350px;
+}
+.Break{
+    height:200px;
+}
+.HalfText{
+    margin-left:50px;
+    margin-right:50px;
+    width:400px;
+}
+.HalfImage{
+    margin-left:50px;
+    margin-right:50px;
+    height:400px;
+    width:400px;
+    background-size:100% 100%;
+    border-radius:50%;
+}
+.FloatR{
+    float:right;
+}
+.ThirdLi{
+    list-style-type:square;
+    margin-left:150px;
+}
+.Definition{
+    font-family:Pangolin;
+    font-size:23px;
+    margin-left:10px;
+}
+.Example{
+    font-family:Josefin Sans;
+    font-size:18px;
+    margin-left:40px;
+}
+.Center{
+    text-align:center;
+}
+
+#Britain{
+    background-image:url('https://www.landofthebrave.info/images/revolutionary-soldiers.jpg');
+    float:left;
+}
+#Germany{
+    background-image:url('http://www.kaisersbunker.com/gtp/index.jpg');
+    float:left;
+}
+#France{
+    background-image:url('https://upload.wikimedia.org/wikipedia/commons/4/4b/Soldats_R%C3%A9volution_fran%C3%A7aise.jpg');
+    float:left;
+}
+#IR{
+    background-image:url('IR.png');
+}
+#PnN{
+    background-image:url('https://images.sciencedaily.com/2014/04/140402100052_1_900x600.jpg');
+}
+#Money{
+    background-image:url('http://s.hswstatic.com/gif/money-world-orig.jpg');
+    float:left;
+}
+#Land{
+    background-image:url('http://kansaslandrealtors.com/index/wp-content/uploads/2015/03/empty-land-desktop-wallpaper-2560x1600.jpg');
+    float:left;
+}
+#Power{
+    background-image:url('http://chicagoreporter.com/wp-content/uploads/archive/stories/shutterstock_115816168.jpg');
+    float:left;
+}
+#ClaimPic{
+    background-image:url('Claim.png');
+}
+#CrashCropPic{
+    background-image:url('https://wle.cgiar.org/sites/default/files/default_images/Blog%20header%20photo%20original.jpg');
+}
+#TaxationPic{
+    background-image:url('https://www.conservativereview.com/sss/media/images/conservative-review/article-images/2016/august/tax-man.jpg');
+}
+#Slave{
+    background-image:url('https://swh-schoolworkhelper.netdna-ssl.com/wp-content/uploads/2016/04/slave-trade-2.jpg?x37075');
+}
+#Battle{
+    background-image:url('http://cdn.wallpapersafari.com/69/95/4mr5f8.jpg');
+}
+#Territory{
+    background-image:url('http://static1.squarespace.com/static/55e0d811e4b023ac4135fcb9/t/575322227c65e46713921de0/1492702112654/?format=1500w');
+    border-radius:0px;
+}
+#Geopolitics{
+    background-image:url('http://cdn.xl.thumbs.canstockphoto.com/canstock28814806.jpg');
+}
+#Education{
+    background-image:url('http://www.aialabama.com/wordpress/wp-content/uploads/2016/01/education_button2.jpg');
+}
+#Explaination{
+    font-family:Pangolin;
+    font-size:23px;
+    text-align:center;
+}
+#Disagree{
+    background-image:url('http://s31.postimg.org/aza9whwuz/disagree.png');
+}
+#ConclusionPic{
+    background-image:url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1xMvxJ35g-iLkvqjHv7qOMOopHDHaXSK5J3Ckww76D6amwx47');
+}
+#DnC{
+    text-align:center;
+    font-size:25px;
+    font-family:Pangolin;
+}
+#movie{
+    margin-left:auto;
+    margin-right:auto;
+    width:600px;
+}
+#Trump2{
+    background-image:url('Trump2.png');
+    border-radius:10px;
+}
+#Reference{
+    font-family:arial;
+    font-size:20px;
+}

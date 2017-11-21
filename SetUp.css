@@ -1,0 +1,11 @@
+body{
+    background-color:rgba(153, 204, 255, 0.7);
+}
+#wrapper{
+    width:1000px;
+    background-color:rgb(153, 204, 255);
+    margin-left:auto;
+    margin-right:auto;
+    border:#3399ff 5px solid;
+    border-radius:10px;
+}
